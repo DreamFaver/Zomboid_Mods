@@ -1,0 +1,10 @@
+# custom git ignore for zomboid mod under Mit license
+#
+# ------------------------------
+# blender save and backup file
+*.blend
+*.blend1
+# references
+*.jpg
+*.psd
+# ------------------------------
